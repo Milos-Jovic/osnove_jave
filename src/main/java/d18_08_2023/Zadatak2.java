@@ -5,6 +5,17 @@ import java.util.Scanner;
 
 public class Zadatak2 {
 
+//    Napisati program koji simulira stampanje ocitane licne karte u vise primeraka.
+//    Korisnik unosi podatke :
+//              ime
+//              prezime
+//              jmbg
+//              broj primeraka za stampu
+
+
+
+
+
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
