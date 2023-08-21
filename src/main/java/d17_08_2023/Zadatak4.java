@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class Zadatak4 {
     public static void main(String[] args) {
 
+
+//                Napisati program koji proverava da li je kliknuto u okviru login forme za web stranicu.
+//                Korisnik unosi x i y koordinate za T1, T2 i M. Ispisati odgovarajuce poruke.
+
         Scanner s = new Scanner(System.in);
 
 

@@ -8,6 +8,13 @@ public class Zadatak1 {
     public static void main(String[] args) {
 
 
+//        Napisati program koji ima informacije koje ucitava informacije sa tastature:
+//                Ime
+//                Prezime
+//                godinu rodjenja
+
+
+
         Scanner s = new Scanner(System.in);
 
         System.out.println("Unesite Ime : ");
