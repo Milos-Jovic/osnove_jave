@@ -29,10 +29,10 @@ public class Zadatak {
         ArrayList<ZeleniKarton> ispiti = new ArrayList<>();
 
        ZeleniKarton ispit1 = new  ZeleniKarton("Milos Jovic", "123", "Istorija", "Marko Markovic", 7);
-        ZeleniKarton ispit2 = new  ZeleniKarton("Milica MIlic", "1323", "Elektrotehnika", "Nenad Ilic", 7);
-        ZeleniKarton ispit3 = new  ZeleniKarton("Janko Jankovic", "1113", "Mehanika", "Darko Jankovic", 7);
-        ZeleniKarton ispit4 = new  ZeleniKarton("Ratko Markovic", "1883", "Statika", "Milica Jokic", 7);
-        ZeleniKarton ispit5 = new  ZeleniKarton("Danica Ilic", "1909", "Programiranje", "Vuk Savic", 7);
+        ZeleniKarton ispit2 = new  ZeleniKarton("Milica MIlic", "1323", "Elektrotehnika", "Nenad Ilic", 9);
+        ZeleniKarton ispit3 = new  ZeleniKarton("Janko Jankovic", "1113", "Mehanika", "Darko Jankovic", 10);
+        ZeleniKarton ispit4 = new  ZeleniKarton("Ratko Markovic", "1883", "Statika", "Milica Jokic", 6);
+        ZeleniKarton ispit5 = new  ZeleniKarton("Danica Ilic", "1909", "Programiranje", "Vuk Savic", 5);
 
         ispiti.add(ispit1);
         ispiti.add(ispit2);
