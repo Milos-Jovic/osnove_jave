@@ -1,4 +1,4 @@
-package d13_09_2023.Zadatak2;
+package d12_09_2023.Zadatak2;
 
 public class ZeleniKarton {
 

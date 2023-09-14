@@ -1,4 +1,4 @@
-package d13_09_2023.Zadatak2;
+package d12_09_2023.Zadatak2;
 
 import java.util.ArrayList;
 
@@ -32,7 +32,8 @@ public class Zadatak {
         ZeleniKarton ispit2 = new  ZeleniKarton("Milica MIlic", "1323", "Elektrotehnika", "Nenad Ilic", 9);
         ZeleniKarton ispit3 = new  ZeleniKarton("Janko Jankovic", "1113", "Mehanika", "Darko Jankovic", 10);
         ZeleniKarton ispit4 = new  ZeleniKarton("Ratko Markovic", "1883", "Statika", "Milica Jokic", 6);
-        ZeleniKarton ispit5 = new  ZeleniKarton("Danica Ilic", "1909", "Programiranje", "Vuk Savic", 5);
+        ZeleniKarton ispit5 = new  ZeleniKarton("Danica Ilic", "1909", "Programiranje", "Vuk Savic", 5
+        );
 
         ispiti.add(ispit1);
         ispiti.add(ispit2);
